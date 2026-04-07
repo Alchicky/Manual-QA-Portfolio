@@ -1,6 +1,6 @@
 👩‍💻 About Me
 
-Hi! I’m Victoria - Manual QA Engineer who enjoys finding issues, improving product quality, and making sure users have a smooth and reliable experience.
+Hi! I’m Victoria, manual QA Engineer who enjoys finding issues, improving product quality, and making sure users have a smooth and reliable experience.
 
 I have hands-on experience testing web and mobile applications, writing test cases, and reporting bugs. I pay attention to details, think through different user scenarios, and like understanding how things can break — and of course how they can be improved.
 
@@ -10,8 +10,8 @@ I enjoy analyzing application behavior, finding edge cases, and continuously imp
 
 🛠 Skills
 	•	Manual Testing
-	•	Test Case Design [Test Case Design](https://github.com/Alchicky/Test-Cases)
-	•	Bug Reporting [Bug Reporting](https://github.com/Alchicky/Bug-Reports)
+	•	[Test Case Design](https://github.com/Alchicky/Test-Cases)
+	•	[Bug Reporting](https://github.com/Alchicky/Bug-Reports)
 	•	Functional Testing
 	•	UI/UX Testing
 	•	Basic API Testing
